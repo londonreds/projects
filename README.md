@@ -34,8 +34,10 @@ From left to right you'll find the following columns
 - Front End dev
 - Back End dev
 - Graphic Design
+
 Other labels indicate type of need:
 - Help Wanted - project is stuck and needs extra help
 - Quick Jobs - only here for short time? Pick up a quick job!
+
 Other labels indicate tools used:
 - ActionKit - project involves working in ActionKit
