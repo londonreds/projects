@@ -30,9 +30,12 @@ From left to right you'll find the following columns
 - Done - Issues that have met all acceptance crieteria
 
 ## Labels
-Label indicate what skillset is necessary, skillsets are in the following categories:
-- Front-end dev
-- Back-end dev
-- UI/UX
-- Design
-- Sponsor - someone with user experience guiding and communicating the needs of the project
+3 labels indicate what skillset is necessary, skillsets are in the following categories:
+- Front End dev
+- Back End dev
+- Graphic Design
+Other labels indicate type of need
+- Help Wanted - project is stuck and needs extra help
+- Quick Jobs - only here for short time? Pick up a quick job!
+Other labels indicate tools used
+- ActionKit - project involves working in ActionKit
