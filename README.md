@@ -1,5 +1,5 @@
 # projects
-Welcome to Momentum Tech Projects! This repository is where we post projects Momentum needs help with
+Welcome to Momentum Tech Projects! This repository is where we post projects Momentum needs help with.
 
 # Mission
 Our objective is to build tools to:
