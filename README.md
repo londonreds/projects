@@ -2,14 +2,21 @@
 Welcome to Momentum Tech Projects! This repository is where we post projects Momentum needs help with.
 
 # Mission
-Our objective is to build tools to:
-- Support organising
-- Improve member experience and empowerment 
+Our objective is to build tools and technology to:
+- Support organising and enable grassroots groups to self-organise
+- Improve member experience, engagement and empowerment 
+- Engage new members and expand our people-powered network
 - Help achieve other Momentum objectives:
   - Prepare and organise for Labour Conference in September
-  - Member and volunteer management
-  - Next general election preparation (voter registration and building grassroots teams and capacity)
-  - Enable grassroots groups to self-organise
+  - Next general election preparation (voter registration, effective doorstep conversations, and training for both)
+  
+We believe as builders we have a responsibility to the world we all live in. Our job is to solve problems and the world is blessedly full of them. We join this community because we believe in making the world a better place through Momentum's grassroots organising and the greater network of the people-powered movement.
+
+While our main activitiy is to build we ask everyone joining the community to **destroy** the following:
+(all quoted from Mike Monteiro)
+- **Your ego** - you are not bigger than the problems you are solving. Stand up for yourself walk proud, and carry yourself with self respect but never ever put yourself above the work you are doing. Real self-respect is tempered with humility, to understand when you are wrong and the confidence to know you can learn from it. Your ego is nothing but fear getting in the way of solutions.
+- **Your fear** - you will be wrong, there will be someone better than you, you will fuck up some of the jobs, you will make mistakes and you will fully recover from them. We are here to learn from each other. 
+- **Your apathy** - everyday thousands of builders go to work not caring what they're working on, just doing the next thing on their list, be intentional in your actions.
   
 # Getting involved
 1. [Join our slack](https://join.slack.com/mom-digihub-event/shared_invite/MjA5NDg2MTEzMjA1LTE0OTk0MzE0MTEtMDU3ZmQ3ZjkwYg), reach out to key contacts (found on every issue) on projects you’re interested in. 
@@ -41,3 +48,36 @@ Other labels indicate type of need:
 
 Other labels indicate tools used:
 - ActionKit - project involves working in ActionKit
+
+# Community guidelines
+(This is mainly based on Ember.js Community guidelines)
+
+### The Momentum Builders Slack, the Digital Hub Weekend, and the greater community is a safe place for everybody regardless of:
+- Gender, gender identity or gender expression
+- Race
+- Sexual orientation
+- Religion
+- Class and/or economic background
+- Disability
+- Physical appearance (including but not limited to body size)
+- Age
+- Nationality & national origin
+
+### As someone who is part of this community, you agree that:
+- We are collectively and individually committed to safety and inclusivity.
+- We have zero tolerance for abuse, harassment, or discrimination.
+- We respect people’s boundaries and identities.
+- We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
+- We avoid using offensive topics as a form of humor.
+
+### We actively work towards:
+- Cultivating a network of support & encouragement for each other
+- Encouraging responsible and varied forms of expression
+- Being a safe community
+
+### We condemn:
+- Stalking, doxxing, or publishing private information
+- Threats of harm
+- Harassment of any form
+- Anything that compromises people’s safety
+- Solicitation (Note: Solicitation for fundraising is limited in #call-to-action channel)
