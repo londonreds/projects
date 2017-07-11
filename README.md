@@ -25,7 +25,7 @@ While our main activitiy is to build we ask everyone joining the community to **
 - Anyone in the slack with "facilitator" after their name is here to help, flag them if you need anything
 2. [Check out the projects](#overview-of-projects)
 3. Check out `ActionKit` and its [documentation](https://roboticdogs.actionkit.com/docs/manual/guide/index.html) and [Github repositories](https://github.com/search?p=2&q=actionkit&type=Repositories) for other orgs that use `ActionKit`. `ActionKit` is the platform for many of our projects, it's where much of our website lives, how emails are targetted, and how we run A/B testing on our pages and emails. 
-4. Request contributor access to the Momentum github by contact @euyterho or @erika-facilitator on Slack.
+4. Request contributor access to the Momentum github by contacting @erika-facilitator on Slack.
 5. Have other friends who may want to help but don’t know enough about Momentum? Here’s a [short text](https://docs.google.com/document/d/140L51BhgVIwrDvsQM982Sj4v3fpfVqp2T8lyWJELPnE/edit?usp=sharing) on what Momentum is.
 
 # Overview of projects
