@@ -52,7 +52,7 @@ Other labels indicate tools used:
 - ActionKit - project involves working in ActionKit
 
 # Community guidelines
-(This is mainly based on Ember.js Community guidelines)
+(This is mainly based on Ember.js and [Progcode](https://www.progcode.org/) Community guidelines)
 
 ### The Momentum Builders Slack, the Digital Hub Weekend, and the greater community is a safe place for everybody regardless of:
 - Gender, gender identity or gender expression
