@@ -18,7 +18,7 @@ While our main activitiy is to build we ask everyone joining the community to **
 - **Your fear** - you will be wrong, there will be someone better than you, you will fuck up some of the jobs, you will make mistakes and you will fully recover from them. We are here to learn from each other. 
 - **Your apathy** - everyday thousands of builders go to work not caring what they're working on, just doing the next thing on their list, be intentional in your actions.
 
-(above 3 points are quoted by Mike Monteiro)
+(above 3 points are quotes by Mike Monteiro)
   
 # Getting involved
 1. [Join our slack](https://join.slack.com/mom-digihub-event/shared_invite/MjA5NDg2MTEzMjA1LTE0OTk0MzE0MTEtMDU3ZmQ3ZjkwYg), reach out to key contacts (found on every issue) on projects you’re interested in. 
