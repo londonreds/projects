@@ -1,4 +1,4 @@
-# Help Momentum reform the Labour Party and elect Jeremy Corbyn as our next Prime Minister
+# Help Momentum mobilise ten of thousands of activists and campaigners to elect Jeremy Corbyn as our next Prime Minister
 Welcome to Momentum Tech Projects! This repository is where we post projects Momentum needs help with.
 
 # Mission
