@@ -6,9 +6,10 @@ Our objective is to build tools and technology to:
 - Support organising and enable grassroots groups to self-organise
 - Improve member experience, engagement and empowerment 
 - Engage new members and expand our people-powered network
-- Help achieve other Momentum objectives:
-  - Prepare and organise for Labour Conference in September
-  - Next general election preparation (voter registration, effective doorstep conversations, and training for both)
+- Next general election preparation 
+  - Voter registration 
+  - Effective doorstep conversations
+  - Training for both of the above
  
 # Purpose
 We believe as builders we have a responsibility to the world we all live in. Our job is to solve problems and the world is blessedly full of them. We join this community because we believe in making the world a better place through supporting Momentum's grassroots organising and the greater network of a people-powered movement.
