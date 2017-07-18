@@ -1,4 +1,4 @@
-#Community Guidelines
+# Community Guidelines
 
 (This is mainly based on Ember.js and [Progcode](https://www.progcode.org/) Community guidelines)
 
