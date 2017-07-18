@@ -1,7 +1,7 @@
 
 # Mission and Purpose of Momentum Digital Network
 
-##Mission
+## Mission
 Our objective is to build tools and technology to:
 - Support organising and enable grassroots groups to self-organise
 - Improve member experience, engagement and empowerment 
